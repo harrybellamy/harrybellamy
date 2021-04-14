@@ -14,6 +14,10 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Easy YouTube Navigation URLs](https://harrybellamy.com/posts/easy-youtube-navigation-urls/)
+- [Refactoring Commonality using the IWith Pattern](https://harrybellamy.com/posts/the-iwith-pattern/)
+- [Asserting Async Methods Throw Exceptions with FluentAssertions](https://harrybellamy.com/posts/async-methods-and-exceptions-fluentassertions/)
+- [Is AutoMapper a Code Smell?](https://harrybellamy.com/posts/is-automapper-a-code-smell/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://harrybellamy.com)
