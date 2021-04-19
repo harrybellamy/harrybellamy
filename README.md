@@ -16,6 +16,7 @@ A Software Engineer specializing in C#, .NET Core and Azure. Professional experi
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Azure Function Event Grid Triggers Locally](https://harrybellamy.com/posts/debugging-azure-function-event-grid-triggers-locally/)
 - [Easy YouTube Navigation URLs](https://harrybellamy.com/posts/easy-youtube-navigation-urls/)
 - [Refactoring Commonality using the IWith Pattern](https://harrybellamy.com/posts/the-iwith-pattern/)
 - [Asserting Async Methods Throw Exceptions with FluentAssertions](https://harrybellamy.com/posts/async-methods-and-exceptions-fluentassertions/)
