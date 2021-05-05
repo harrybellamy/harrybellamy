@@ -16,11 +16,11 @@ A Software Engineer specializing in C#, .NET Core and Azure. Professional experi
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit Testing IoC Container Setup in C#](https://harrybellamy.com/posts/unit-testing-ioc-container-setup-in-c-sharp/)
 - [Tips for Working with the dynamic Type in C#](https://harrybellamy.com/posts/tips-for-working-with-the-dynamic-type-in-c-sharp/)
 - [Debugging Azure Function Event Grid Triggers Locally](https://harrybellamy.com/posts/debugging-azure-function-event-grid-triggers-locally/)
 - [Easy YouTube Navigation URLs](https://harrybellamy.com/posts/easy-youtube-navigation-urls/)
 - [Refactoring Commonality using the IWith Pattern](https://harrybellamy.com/posts/the-iwith-pattern/)
-- [Asserting Async Methods Throw Exceptions with FluentAssertions](https://harrybellamy.com/posts/async-methods-and-exceptions-fluentassertions/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://harrybellamy.com)
