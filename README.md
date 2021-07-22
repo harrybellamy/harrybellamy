@@ -16,11 +16,11 @@ A Software Engineer specializing in C#, .NET Core and Azure. I have professional
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Clean Task for .Net Core Projects in VS Code](https://harrybellamy.com/posts/creating-a-clean-task-for-dotnet-projects-in-vscode/)
 - [Creating .Net Core Projects with the CLI](https://harrybellamy.com/posts/creating-dotnet-core-projects-with-the-command-line/)
 - [Adding Test Categories with xUnit](https://harrybellamy.com/posts/adding-test-categories-with-xunit/)
 - [Creating Azure Event Grid Subscriptions with PowerShell](https://harrybellamy.com/posts/creating-event-grid-subscriptions-with-powershell/)
 - [Application Insights Logging in Azure Functions](https://harrybellamy.com/posts/application-insights-logging-in-azure-functions/)
-- [Getting MIME Types from File Extensions in .Net Core](https://harrybellamy.com/posts/getting-mime-types-from-file-extensions-in-net-core/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://harrybellamy.com)
